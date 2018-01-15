@@ -1,0 +1,2 @@
+j'ai ouvert la page HTML, puis j'ai cherché sur la formulaire ou elle se trouve la bouton "envoyer", et j'ai changé le lien de l'action par le lien locale de la même page, voilà le lien:
+==> (file:///C:/Users/AbdouPC/Desktop/FrontEnd/Hotel%20Marrakech,%20professionnel.html)
